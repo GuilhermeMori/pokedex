@@ -1,6 +1,6 @@
 # Pokedex
 
-Este é um projeto chamado Pokedex, desenvolvidor no curso de JavaScript da Dio, nele é exibido informações sobre os Pokémon da primeira geração. O objetivo deste projeto é fornecer aos usuários uma maneira fácil e divertida de explorar os diferentes Pokémon e seus tipos correspondentes, além de um conhecimento inicial sobre o consumo de Api em aplicações.
+Este é um projeto chamado Pokedex, desenvolvido no curso de JavaScript da Dio, nele é exibido informações sobre os Pokémon da primeira geração. O objetivo deste projeto é fornecer aos usuários uma maneira fácil e divertida de explorar os diferentes Pokémon e seus tipos correspondentes, além de um conhecimento inicial sobre o consumo de Api em aplicações.
 
 ## Funcionalidades
 
